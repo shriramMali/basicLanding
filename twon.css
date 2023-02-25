@@ -1,0 +1,19 @@
+
+
+.one{
+    background-color: blue;
+    width: 500px;
+    display: flex;
+    position: relative;
+    left: 50px;
+    padding: 10px;
+    flex-direction:;
+    flex-wrap: nowrap;
+    flex-flow:row-reverse;
+    justify-content:space-around;
+}
+.to{
+background-color: yellow;
+margin: 2px;
+padding: 30px;
+}
